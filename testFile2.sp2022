@@ -1,0 +1,6 @@
+$$ q2y2 $$
+data x := 10 ;
+main
+begin
+getter h ;
+end

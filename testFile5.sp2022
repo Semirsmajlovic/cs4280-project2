@@ -1,0 +1,16 @@
+$$ a2i5 $$
+data _h := 123 ;
+data q := 678 ;
+main
+begin
+data q := 15 ;
+void x ;
+loop [ q => z ]
+  begin
+  data z := 13 ;
+     begin
+     proc x ; 
+     end
+  end ;
+outter x ;
+end

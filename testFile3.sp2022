@@ -1,0 +1,7 @@
+$$ a2y3 $$
+data h := 15 ;
+main
+begin
+data a := 99 ;
+outter a ;
+end

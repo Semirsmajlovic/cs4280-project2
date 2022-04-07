@@ -1,0 +1,5 @@
+$$ a2t1, remember to mix up variants when producing this output $$
+main
+begin
+getter h;
+end

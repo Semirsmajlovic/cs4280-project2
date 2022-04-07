@@ -1,0 +1,8 @@
+$$ a2t6, for the last time, we test the below instances $$
+data z := 15 ;
+data j := 16 ;
+data g := 17 ;
+main
+begin
+	outter ( 2 * 3 / 5 + 7 - * 11 + ( 13 * * 17 ) ) ;
+end

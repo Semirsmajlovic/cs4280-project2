@@ -1,0 +1,9 @@
+$$ a2y4 $$
+data q := 123 ;
+main
+begin
+data h := 15 ;
+loop [ y => z ]
+    assign x := y ; ;
+outter x ;
+end
